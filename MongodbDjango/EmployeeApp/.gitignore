@@ -1,3 +1,4 @@
 #ignore directory.
 /.vscode/
 /__pycache__/
+/migrations/__pycache__/
